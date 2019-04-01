@@ -1,15 +1,17 @@
 # Youtube_Downloader
 
+Downloads highest quality video / audio from Youtube and combines into a single file.
+
 Note - might error when video title contains special characters.
 
-ALL :
+## ALL:
 
-pip install pytube
+  pip install pytube
 
-MacOS:
+## MacOS:
 
-brew install ffmpeg
+  brew install ffmpeg
 
-Usage:
+## Usage:
 
-python main.py 
+  python main.py 
